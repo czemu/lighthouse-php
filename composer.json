@@ -1,10 +1,10 @@
 {
-    "name": "dzava/lighthouse",
+    "name": "czemu/lighthouse",
     "description": "Interface for the Google Lighthouse project",
     "keywords": [
         "lighthouse"
     ],
-    "homepage": "https://github.com/dzava/lighthouse-php",
+    "homepage": "https://github.com/czemu/lighthouse-php",
     "license": "MIT",
     "authors": [
         {
